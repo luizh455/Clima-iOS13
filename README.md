@@ -1,7 +1,7 @@
 
 #  Clima
 
-## In this application i learned:
+## Making this application I've learned:
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
 * Learn to use the UITextField to get user input. 
